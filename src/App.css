@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  width: 50%;
+  height: 25%;
+  background: peachpuff;
+  border: #282c34 dotted 1px;
+  margin: auto;
+  align-items: center;
+  padding-bottom: 10px;
+}
